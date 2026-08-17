@@ -15,10 +15,12 @@ All data was using GP2 release 11 (https://zenodo.org/records/17753486). Genotyp
 - [Introduction to GP2](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28494)
   - [Other GP2 Manuscripts (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%22global+parkinson%27s+genetics+program%22)
 
-# Repository Orientation
-- The analyses/ directory includes all analyses discussed in the manuscript
- -  GP2/ includes 3 notebooks on processing and analyzing GP2 Neuobooster array data from release 11 and two R scripts document for clinical data analysis
+## Repository Orientation
 
+- The `analyses/` directory contains all analyses described in the manuscript.
+- The `GP2/` directory contains three Jupyter notebooks for processing and analyzing GP2 NeuroBooster Array data from Release 11, along with two R Markdown files for clinical data analyses.
+
+```text
 THIS_REPO/
 ├── README.md
 └── analyses/
@@ -28,6 +30,7 @@ THIS_REPO/
         ├── 02_PRScal_GBA1_r11.ipynb
         ├── 03_META_NBA.Rmd
         └── 04_TUEPAC.Rmd
+```
 
 # Analysis Notebooks
 ## Languages: Python, bash, and R
