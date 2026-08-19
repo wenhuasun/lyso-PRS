@@ -44,11 +44,12 @@ THIS_REPO/
 | TUEPAC         | regression analysis of demographics and clinical outcomes in European-TUEPAC cohort|
 
 # Software
-| Software   | Version(s) | Resource URL |
-|----------------|--------|------------------|
-| PLINK  | 1.9 and 2.0    | http://www.nitrc.org/projects/plink             |
-| PRSice  | 2.3.5    | https://github.com/choishingwan/PRSice             |
-| metafor  | 4.8-0    | https://cran.r-project.org/web/packages/metafor/index.html             |
-| Python Programming Language | 3.10.15  | http://www.python.org/         |
-| R Project for Statistical Computing | 4.3.3  | http://www.r-project.org/        |
+
+| Software | Version(s) | Resource URL | RRID |
+|----------|------------|--------------|------|
+| PLINK | 1.9 and 2.0 | http://www.nitrc.org/projects/plink | RRID:SCR_001757 |
+| PRSice | 2.3.5 | https://github.com/choishingwan/PRSice | RRID:SCR_017057 |
+| metafor | 4.8-0 | https://cran.r-project.org/web/packages/metafor/index.html | RRID:SCR_003450 |
+| Python Programming Language | 3.10.15 | http://www.python.org/ | RRID:SCR_008394 |
+| R Project for Statistical Computing | 4.3.3 | http://www.r-project.org/ | RRID:SCR_001905 |
 
