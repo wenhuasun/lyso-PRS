@@ -6,7 +6,9 @@ This is the online repository for the manuscript titled "Lysosomal polygenic ris
 
 # Data statement
 All GP2 data are hosted in collaboration with the Accelerating Medicines Partnership in Parkinson’s disease, and are available via application on the website (https://amp-pd.org/register-for-amp-pd). For up-to-date information on GP2 data acquisition, access, and policies, visit https://gp2.org/. 
+
 All data was using GP2 release 11 (https://zenodo.org/records/17753486). Genotyping imputation, quality control, ancestry prediction, and processing were performed using GenoTools (v1.0.0), publicly available on GitHub.
+
 Data of European Tuebingen Parkinson cohort dataset are available in an anonymized format on request to: kathrin.brockmann@uni-tuebingen.de.
 
 ## Helpful Links
@@ -15,6 +17,15 @@ Data of European Tuebingen Parkinson cohort dataset are available in an anonymiz
   - [GP2 Cohort Dashboard](https://gp2.org/cohort-dashboard-advanced/)
 - [Introduction to GP2](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28494)
   - [Other GP2 Manuscripts (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=%22global+parkinson%27s+genetics+program%22)
+
+## Citation
+(pending publication)
+
+## Tables
+(pending publication)
+
+## Figures
+(pending publication)
 
 ## Repository Orientation
 
